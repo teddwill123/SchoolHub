@@ -1,7 +1,5 @@
 {
-  "/parent/page": "app/parent/page.js",
-  "/teacher/page": "app/teacher/page.js",
-  "/student/page": "app/student/page.js",
   "/page": "app/page.js",
-  "/admin/page": "app/admin/page.js"
+  "/(dashboard)/student/page": "app/(dashboard)/student/page.js",
+  "/(dashboard)/teacher/page": "app/(dashboard)/teacher/page.js"
 }
