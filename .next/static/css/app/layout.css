@@ -1157,6 +1157,10 @@ video {
   cursor: not-allowed;
 }
 
+.disabled\:opacity-50:disabled {
+  opacity: 0.5;
+}
+
 @media (min-width: 768px) {
 
   .md\:block {
